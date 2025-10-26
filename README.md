@@ -1,1 +1,1 @@
-# armlessDetectiveThing
+# Run "pip3 install -r requirements.txt" in your command prompt in the armlessDetectiveThing directory/ folder then run "python3 main.py"
